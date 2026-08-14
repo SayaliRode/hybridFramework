@@ -1,0 +1,4 @@
+Application opened
+Firstname option selected from dropdown
+Employee details deleted successfully
+Logged out
