@@ -19,6 +19,7 @@ export class general extends global{
         await this.page.locator(this.txtUsername).fill(this.username);
         await this.page.locator(this.txtPassword).fill(this.password);
         await this.page.locator(this.loginButton).click();
+        console.log("Logged into Application");
     }
 
     //Logout from App
